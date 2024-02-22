@@ -70,6 +70,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/1Dambek1/1Dambek1/github-user-contribution.svg" alt="Snake animation" />
-
+<img src="/github-user-contribution.svg" alt="Snake"  />
 ###
