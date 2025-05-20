@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Nextjs</p>
+<p align="left">📚 I'm currently learning ml</p>
 
 ###
 
