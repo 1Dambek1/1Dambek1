@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Denis and I'm a full-stack developer, from Russia</p>
+<p align="left">My name is Denis and I'm a full-stack data-science developer, from Russia</p>
 
 ###
 
