@@ -1,0 +1,64 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Animated AI signal line</title>
+  <defs>
+    <linearGradient id="signal" x1="90" y1="60" x2="1110" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.36" stop-color="#A78BFA"/>
+      <stop offset="0.68" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F17" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#0B0F17"/>
+      <stop offset="0.85" stop-color="#0B0F17"/>
+      <stop offset="1" stop-color="#0B0F17" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-60%" width="120%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.23 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.4 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <style>
+      @keyframes dash {
+        from { stroke-dashoffset: 0; }
+        to { stroke-dashoffset: -96; }
+      }
+      @keyframes pulse {
+        0%, 100% { r: 4; opacity: .45; }
+        50% { r: 7; opacity: 1; }
+      }
+      @keyframes scan {
+        0% { transform: translateX(-220px); opacity: 0; }
+        12% { opacity: .9; }
+        88% { opacity: .9; }
+        100% { transform: translateX(220px); opacity: 0; }
+      }
+      #dash {
+        stroke-dasharray: 18 30;
+        animation: dash 1.6s linear infinite;
+      }
+      .node {
+        animation: pulse 2.2s ease-in-out infinite;
+      }
+      .node.two { animation-delay: .35s; }
+      .node.three { animation-delay: .7s; }
+      .scan {
+        animation: scan 4.5s ease-in-out infinite;
+        transform-origin: center;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="120" rx="18" fill="url(#fade)"/>
+  <path d="M90 61H318C344 61 356 38 382 38H518C544 38 556 82 582 82H726C752 82 764 54 790 54H1110" stroke="#334155" stroke-width="1.5"/>
+  <path id="dash" d="M90 61H318C344 61 356 38 382 38H518C544 38 556 82 582 82H726C752 82 764 54 790 54H1110" stroke="url(#signal)" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)"/>
+  <g class="scan">
+    <rect x="520" y="27" width="160" height="66" rx="33" fill="#38BDF8" fill-opacity="0.07"/>
+    <path d="M540 60H660" stroke="#E2E8F0" stroke-opacity="0.28" stroke-width="1"/>
+  </g>
+  <circle class="node" cx="382" cy="38" r="5" fill="#38BDF8"/>
+  <circle class="node two" cx="582" cy="82" r="5" fill="#A78BFA"/>
+  <circle class="node three" cx="790" cy="54" r="5" fill="#34D399"/>
+  <text x="92" y="38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">model</text>
+  <text x="1065" y="88" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">product</text>
+</svg>

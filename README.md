@@ -1,42 +1,103 @@
-<h1 align="left">Denis Dambek</h1>
+<div align="center">
 
-<p align="left">
-  <b>Full-stack ML Engineer</b><br />
-  Python · TypeScript · Next.js · PyTorch · Transformers · C++<br />
-  <a href="https://t.me/Dambek0">Telegram</a> · <a href="mailto:denolinevichd@inbox.ru">denolinevichd@inbox.ru</a>
-</p>
+<img src="./assets/signal-line.svg" alt="animated AI signal line" width="100%" />
+
+# Denis Dambek
+
+**Full-stack ML Engineer** · AI products · CV/NLP · LLM systems
+
+<a href="https://t.me/Dambek0">Telegram</a> · <a href="mailto:denolinevichd@inbox.ru">denolinevichd@inbox.ru</a>
+
+</div>
 
 ---
 
-### Profile
-
-Я фуллстек ML-разработчик. Проектирую и собираю AI-продукты от модели и inference-пайплайна до backend API, веб-интерфейса и деплоя.
-
-Основной фокус: прикладной ML, LLM/NLP, computer vision, AI-ассистенты и production-ready сервисы, где модель встроена в понятный продуктовый сценарий.
+<table>
+  <tr>
+    <td width="58%">
+      <b>Profile</b><br /><br />
+      Я фуллстек ML-разработчик. Проектирую AI-продукты end-to-end:
+      от модели, данных и inference-пайплайна до backend API, интерфейса и деплоя.
+    </td>
+    <td width="42%">
+      <b>Focus</b><br /><br />
+      Applied ML · LLM/NLP · Computer Vision<br />
+      AI assistants · Production-ready services<br />
+      Product engineering · Clean web UX
+    </td>
+  </tr>
+</table>
 
 ### Engineering Stack
 
-**ML:** PyTorch, Transformers, CV, NLP, LLM<br />
-**Backend:** Python, FastAPI, SQL, Docker<br />
-**Frontend:** TypeScript, Next.js, React<br />
-**Core:** C++, Linux, Git
+<table>
+  <tr>
+    <td width="18%"><b>ML</b></td>
+    <td><code>PyTorch</code> <code>Transformers</code> <code>CV</code> <code>NLP</code> <code>LLM</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Docker</code></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><code>TypeScript</code> <code>Next.js</code> <code>React</code></td>
+  </tr>
+  <tr>
+    <td><b>Core</b></td>
+    <td><code>C++</code> <code>Linux</code> <code>Git</code></td>
+  </tr>
+</table>
 
 ### Selected Achievements
 
-- Data Fusion 2026: победитель в специальной номинации
-- НТО 2026: абсолютный победитель по инфохимии; финалист 2025/26 по финтеху, ИИ и инфохимии
-- IO 2026: призёр; DANO 2025: финалист
-- Всероссийская олимпиада по ИИ: полуфиналист; Сириус ИИ: призёр с проектом Damfai
-- Хакатоны: победитель Tulahack, Codewars, Smolathon; призёр Компьютериады, Осень 25, Nuclear Hack и О! Хакатон
-- ВСОШ: призёр регионального этапа по физике, информатике, химии и математике
+<table>
+  <tr>
+    <td width="18%"><b>2026</b></td>
+    <td>Data Fusion winner, special nomination</td>
+  </tr>
+  <tr>
+    <td><b>2026</b></td>
+    <td>НТО: абсолютный победитель по инфохимии</td>
+  </tr>
+  <tr>
+    <td><b>2026</b></td>
+    <td>IO prize-winner; DANO 2025 finalist</td>
+  </tr>
+  <tr>
+    <td><b>2025/26</b></td>
+    <td>НТО finalist: financial technologies, AI, infochemistry</td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>Всероссийская олимпиада по ИИ semifinalist; Sirius AI prize-winner with Damfai</td>
+  </tr>
+  <tr>
+    <td><b>Hackathons</b></td>
+    <td>Tulahack, Codewars, Smolathon winner; Computeriada, Осень 25, Nuclear Hack and О! Хакатон prize-winner</td>
+  </tr>
+  <tr>
+    <td><b>VSOSH</b></td>
+    <td>Regional prize-winner in physics, computer science, chemistry and mathematics</td>
+  </tr>
+</table>
 
 ### Education
 
-Институт дополнительного образования Иннополис, 2025<br />
-«Искусственный интеллект и основы аналитики (больших) данных»
+<table>
+  <tr>
+    <td width="18%"><b>2025</b></td>
+    <td>
+      Институт дополнительного образования Иннополис<br />
+      «Искусственный интеллект и основы аналитики (больших) данных»
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="left">
-  <sub>Building practical AI systems from model to product.</sub>
-</p>
+<div align="center">
+
+<sub>Building practical AI systems from model to product.</sub>
+
+</div>
