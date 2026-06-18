@@ -1,55 +1,59 @@
-<h1 align="center">Denis Dambek</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-stack ML Developer</b><br />
-  AI products, backend, frontend, CV, NLP and LLM systems
-</p>
+# Denis Dambek
 
-<p align="center">
-  <code>Python</code>
-  <code>TypeScript</code>
-  <code>Next.js</code>
-  <code>PyTorch</code>
-  <code>Transformers</code>
-  <code>C++</code>
-  <code>FastAPI</code>
-  <code>Docker</code>
-</p>
+<samp>full-stack ml developer · ai products · cv/nlp · web systems</samp>
+
+<br /><br />
+
+<samp>python · typescript · next.js · pytorch · transformers · c++</samp>
+
+<br /><br />
+
+<samp>
+  <a href="https://t.me/Dambek0">telegram</a> ·
+  <a href="mailto:denolinevichd@inbox.ru">email</a>
+</samp>
+
+<br /><br />
+
+<img src="./assets/dino-run.svg" alt="running dino animation" width="720" />
+
+</div>
 
 ---
 
-### About
+### Коротко
 
-Я фуллстек ML-разработчик: собираю AI-продукты от идеи и модели до API, интерфейса и деплоя.
-Больше всего интересны прикладное машинное обучение, computer vision, NLP, LLM-пайплайны и продукты, где модель действительно решает задачу, а не просто красиво выглядит в демо.
+Я фуллстек ML-разработчик. Собираю AI-продукты end-to-end: от модели, данных и inference-пайплайна до API, веб-интерфейса и деплоя.
 
-Сейчас фокусируюсь на production-ready ML-сервисах, AI-ассистентах, мультимодальных пайплайнах и аккуратной интеграции ML в веб-приложения.
+Мой основной фокус: прикладной ML, LLM/NLP, computer vision, AI-ассистенты и сервисы, которые можно довести до реального продукта, а не оставить на уровне демо.
 
-### Stack
+### Стек
 
-- `ML:` PyTorch, Transformers, CV, NLP, LLM
-- `Backend:` Python, FastAPI, SQL, Docker
-- `Frontend:` TypeScript, Next.js, React
-- `Core:` C++, Linux, Git
+`ML` PyTorch · Transformers · CV · NLP · LLM<br />
+`Backend` Python · FastAPI · SQL · Docker<br />
+`Frontend` TypeScript · Next.js · React<br />
+`Core` C++ · Linux · Git
 
-### Highlights
+### Достижения
 
-- `2026` Победитель Data Fusion в специальной номинации
-- `2026` Абсолютный победитель НТО по инфохимии
-- `2026` Призёр IO
-- `2025` Финалист DANO
-- `2025/26` Финалист НТО по финансовым технологиям, ИИ и инфохимии
-- `AI` Полуфиналист Всероссийской олимпиады по ИИ и призёр Сириус ИИ с проектом Damfai
-- `Hackathons` Победитель Tulahack, Codewars, Smolathon; призёр Компьютериады, Осень 25, Nuclear Hack и О! Хакатон
-- `VSOSH` Призёр регионального этапа по физике, информатике, химии и математике в 2023-2025 годах
+- Data Fusion 2026: победитель в специальной номинации
+- НТО 2026: абсолютный победитель по инфохимии; финалист 2025/26 по финтеху, ИИ и инфохимии
+- IO 2026: призёр; DANO 2025: финалист
+- AI: полуфиналист Всероссийской олимпиады по ИИ, призёр Сириус ИИ с проектом Damfai
+- Хакатоны: победитель Tulahack, Codewars, Smolathon; призёр Компьютериады, Осень 25, Nuclear Hack и О! Хакатон
+- ВСОШ: призёр регионального этапа по физике, информатике, химии и математике
 
-### Education
+### Образование
 
 Институт дополнительного образования Иннополис, 2025<br />
 «Искусственный интеллект и основы аналитики (больших) данных»
 
 ---
 
-<p align="center">
-  <sub>Building practical AI systems from model to product.</sub>
-</p>
+<div align="center">
+
+<sub>building practical AI systems from model to product</sub>
+
+</div>
