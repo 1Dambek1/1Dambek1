@@ -98,7 +98,7 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/2026-Prize--winner-38BDF8?style=flat-square" alt="Prize-winner 2026" />
-      <b>IO</b><br />
+      <b>Innpolis Open</b><br />
       Призёр; DANO 2025 finalist.
     </td>
     <td>
