@@ -1,30 +1,55 @@
+<h1 align="center">Denis Dambek</h1>
+
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Denis Dambek - Full-Stack ML Developer" width="100%" />
+  <b>Full-stack ML Developer</b><br />
+  AI products, backend, frontend, CV, NLP and LLM systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/1Dambek1">
-    <img src="https://komarev.com/ghpvc/?username=1Dambek1&style=flat-square&color=14b8a6" alt="profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/AI%20Products-0b0f17?style=flat-square&logo=openai&logoColor=white" alt="AI Products" />
-  <img src="https://img.shields.io/badge/Full--Stack-0b0f17?style=flat-square&logo=nextdotjs&logoColor=white" alt="Full-Stack" />
-  <img src="https://img.shields.io/badge/ML%20Systems-0b0f17?style=flat-square&logo=pytorch&logoColor=ff6b35" alt="ML Systems" />
+  <code>Python</code>
+  <code>TypeScript</code>
+  <code>Next.js</code>
+  <code>PyTorch</code>
+  <code>Transformers</code>
+  <code>C++</code>
+  <code>FastAPI</code>
+  <code>Docker</code>
 </p>
+
+---
+
+### About
+
+Я фуллстек ML-разработчик: собираю AI-продукты от идеи и модели до API, интерфейса и деплоя.
+Больше всего интересны прикладное машинное обучение, computer vision, NLP, LLM-пайплайны и продукты, где модель действительно решает задачу, а не просто красиво выглядит в демо.
+
+Сейчас фокусируюсь на production-ready ML-сервисах, AI-ассистентах, мультимодальных пайплайнах и аккуратной интеграции ML в веб-приложения.
+
+### Stack
+
+- `ML:` PyTorch, Transformers, CV, NLP, LLM
+- `Backend:` Python, FastAPI, SQL, Docker
+- `Frontend:` TypeScript, Next.js, React
+- `Core:` C++, Linux, Git
+
+### Highlights
+
+- `2026` Победитель Data Fusion в специальной номинации
+- `2026` Абсолютный победитель НТО по инфохимии
+- `2026` Призёр IO
+- `2025` Финалист DANO
+- `2025/26` Финалист НТО по финансовым технологиям, ИИ и инфохимии
+- `AI` Полуфиналист Всероссийской олимпиады по ИИ и призёр Сириус ИИ с проектом Damfai
+- `Hackathons` Победитель Tulahack, Codewars, Smolathon; призёр Компьютериады, Осень 25, Nuclear Hack и О! Хакатон
+- `VSOSH` Призёр регионального этапа по физике, информатике, химии и математике в 2023-2025 годах
+
+### Education
+
+Институт дополнительного образования Иннополис, 2025<br />
+«Искусственный интеллект и основы аналитики (больших) данных»
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,pytorch,cpp,fastapi,docker,postgres,linux,git&theme=dark&perline=11" alt="Python, TypeScript, Next.js, React, PyTorch, C++, FastAPI, Docker, PostgreSQL, Linux, Git" />
+  <sub>Building practical AI systems from model to product.</sub>
 </p>
-
-<p align="center">
-  <img src="./assets/achievements.svg" alt="Achievement highlights" width="100%" />
-</p>
-
-<p align="center">
-  <sub>Education: Innopolis Institute of Continuing Education - AI and Big Data Analytics, 2025</sub>
-</p>
-
-<details align="center">
-  <summary>GitHub activity</summary>
-  <br />
-  <img src="./github-user-contribution.svg" alt="GitHub contribution snake" width="100%" />
-</details>
