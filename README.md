@@ -2,7 +2,7 @@
 
 <img src="./assets/signal-line.svg" alt="animated AI signal line" width="100%" />
 
-# Denis Dambek
+# Denis Olinevich
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack%20ML%20Engineer-0F172A?style=for-the-badge&logo=pytorch&logoColor=FF6B35" alt="Full-Stack ML Engineer" />
