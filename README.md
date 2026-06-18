@@ -139,6 +139,5 @@
 
 <div align="center">
 
-<sub>Building practical AI systems from model to product.</sub>
 
 </div>
